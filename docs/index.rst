@@ -172,7 +172,7 @@ During the teaching period, this web page is updated each week before the lectur
    notebooks/week4/interactive-vis-Python-II.ipynb
    notebooks/week4/AI-and-other-tools.ipynb
    notebooks/week4/Exporting-web-maps-from-QGIS.ipynb
-   notebooks/week4/Spatiotemporal-data-exploration-and-animated-maps-with-QGIS.ipynb
+   notebooks/week4/Spatiotemporal-data-exploration-QGIS.ipynb
    notebooks/week4/publish-interactive-maps.ipynb
    notebooks/week4/Exercise-4.ipynb
    
