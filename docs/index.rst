@@ -3,10 +3,10 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Cartographic Visualization in GIS 2025
+Urban GIS and Visual Tools 2026
 ====================================
 
-.. admonition:: 2025 implementation
+.. admonition:: 2026 implementation
    The course pages will be further updated during Spring 2025. Some information may still change. Please visit the pages again later.  
 
 Welcome to Cartographic Visualization in GIS (GEOG-349). Through interactive lessons and hands-on exercises, this course will guide you through the fascinating world of cartography and map making. It combines the conceptual, historical, artistic, and theoretical aspects of cartography with modern technology, giving you a comprehensive and advanced toolkit for map making.
