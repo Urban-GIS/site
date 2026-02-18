@@ -6,10 +6,10 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'CartoGIS'
-copyright = '2024, Kamyar Hasanzadeh'
+project = 'UrbanGIS'
+copyright = '2026, Kamyar Hasanzadeh'
 author = 'Kamyar Hasanzadeh'
-release = '2024'
+release = '2026'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
@@ -26,7 +26,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
 html_last_updated_fmt = "%d %B %Y"
 html_logo = "static/logo/CartoGIS.png"
-html_short_title = "CartoGIS"
+html_short_title = "UrbanGIS"
 html_title = ""
 
 html_theme = "sphinx_book_theme"
@@ -42,7 +42,7 @@ html_theme_options = {
     },
     "path_to_docs": "docs",
     "repository_branch": "main",
-    "repository_url": "https://github.com/Carto-gis/site",
+    "repository_url": "https://github.com/Urban-gis/site",
     "use_edit_page_button": True,
     "use_repository_button": True,
     'logo_only': True,

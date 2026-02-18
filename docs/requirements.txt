@@ -6,16 +6,5 @@ sphinx_book_theme
 matplotlib
 geopandas
 pandas
-cartopy
-networkx
-osmnx
-pillow
-plotly
-mapclassify
-seaborn
-contextily
-osmnx
-tilemapbase
-mpl_chord_diagram
-folium
 ipywidgets
+
