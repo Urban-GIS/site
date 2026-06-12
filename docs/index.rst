@@ -26,7 +26,7 @@ This is an introductory full semster course in Urban Studies Master Program at U
 
    lessons/bootcamp/overview.ipynb
    lessons/bootcamp/Part1/GISBC-1.ipynb
-   lessons/bootcamp/Part1/GISBC-2.ipynb
+   lessons/bootcamp/Part2/GISBC-2.ipynb
 
 
 .. toctree::
