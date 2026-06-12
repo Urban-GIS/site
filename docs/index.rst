@@ -22,7 +22,53 @@ This is an introductory full semster course in Urban Studies Master Program at U
 ..    course-info/resources.ipynb
 ..    course-info/license.ipynb
 
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: GIS Bootcamp
 
+..    lessons/bootcamp/overview.ipynb
+..    lessons/bootcamp/Part1/GISBC-1.ipynb
+..    lessons/bootcamp/Part1/GISBC-2.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 1
+
+..    lessons/1/overview.ipynb
+..    lessons/1/practical1.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 2
+
+..    lessons/2/overview.ipynb
+..    lessons/2/practical2.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 3
+
+..    lessons/3/overview.ipynb
+..    lessons/3/practical3.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 4
+
+..    lessons/4/overview.ipynb
+..    lessons/4/practical4.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 5
+
+..    lessons/5/overview.ipynb
+..    lessons/5/practical5.ipynb
 
 
 
