@@ -1,9 +1,9 @@
-.. CartoGIS documentation master file, created by
-   sphinx-quickstart on Thu Dec 14 06:24:35 2023.
+.. UrbanGIS documentation master file, created by
+   sphinx-quickstart on Thu Dec 14 06:24:35 2026.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Urban GIS and Visual Tools 2026
+Urban GIS and Visual Tools
 ====================================
 
 This is an introductory full semster course in Urban Studies Master Program at University of Helsinki (in cooperation with Aalto University). For Autumn 2026, the course is being transformed into an Open access MOOC. This page will be updated later.  
@@ -67,10 +67,38 @@ This is an introductory full semster course in Urban Studies Master Program at U
 
    lessons/5/overview.ipynb
    lessons/5/practical5.ipynb
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 6
+
+   lessons/6/overview.ipynb
+   lessons/6/practical6.ipynb   
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 8
+
+   lessons/8/overview.ipynb
+   lessons/8/practical8.ipynb  
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 9
+
+   lessons/9/overview.ipynb
+   lessons/9/practical9.ipynb 
+   
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 10
+
+   lessons/10/overview.ipynb
+   lessons/10/practical10.ipynb    
 
 
 
