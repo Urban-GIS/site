@@ -17,10 +17,6 @@ essential tools and concepts needed for the course. The following lessons move
 from guided exercises towards applied urban GIS work, including data handling,
 spatial analysis, visualisation, and critical interpretation of results.
 
-The course runs from 2 September to 9 December 2026 on Wednesdays from
-09:15 to 11:45. Sessions are held mainly in the University Main Building,
-room F3005. There is no session on 21 October; the session on 2 December is
-held at the Language Centre, room S115.
 
 This open course site is under development. The overall structure and the
 bootcamp are in place, while individual topics, exercises, guest contributors,
