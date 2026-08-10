@@ -40,90 +40,90 @@ handled through the University of Helsinki's course systems.
 
    course-info/general-info.ipynb
    course-info/course-env.ipynb
-   course-info/grading.ipynb
-   course-info/learning-goals.ipynb
-   course-info/ai-tools.ipynb
-   course-info/license.ipynb
+..    course-info/grading.ipynb
+..    course-info/learning-goals.ipynb
+..    course-info/ai-tools.ipynb
+..    course-info/license.ipynb
 
-.. toctree::
-   :maxdepth: 2
-   :caption: GIS Bootcamp
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: GIS Bootcamp
 
-   lessons/bootcamp/overview.ipynb
-   lessons/bootcamp/Part1/GISBC-1.ipynb
-   lessons/bootcamp/Part2/GISBC-2.ipynb
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 1
-
-   lessons/1/overview.ipynb
-   lessons/1/practical1.ipynb
+..    lessons/bootcamp/overview.ipynb
+..    lessons/bootcamp/Part1/GISBC-1.ipynb
+..    lessons/bootcamp/Part2/GISBC-2.ipynb
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 2
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 1
 
-   lessons/2/overview.ipynb
-   lessons/2/practical2.ipynb
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 3
-
-   lessons/3/overview.ipynb
-   lessons/3/practical3.ipynb
+..    lessons/1/overview.ipynb
+..    lessons/1/practical1.ipynb
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 4
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 2
 
-   lessons/4/overview.ipynb
-   lessons/4/practical4.ipynb
+..    lessons/2/overview.ipynb
+..    lessons/2/practical2.ipynb
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 5
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 3
 
-   lessons/5/overview.ipynb
-   lessons/5/practical5.ipynb
+..    lessons/3/overview.ipynb
+..    lessons/3/practical3.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 4
+
+..    lessons/4/overview.ipynb
+..    lessons/4/practical4.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 5
+
+..    lessons/5/overview.ipynb
+..    lessons/5/practical5.ipynb
    
    
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 6
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 6
 
-   lessons/6/overview.ipynb
-   lessons/6/practical6.ipynb   
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 8
-
-   lessons/8/overview.ipynb
-   lessons/8/practical8.ipynb  
+..    lessons/6/overview.ipynb
+..    lessons/6/practical6.ipynb   
 
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 9
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 8
 
-   lessons/9/overview.ipynb
-   lessons/9/practical9.ipynb 
+..    lessons/8/overview.ipynb
+..    lessons/8/practical8.ipynb  
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 9
+
+..    lessons/9/overview.ipynb
+..    lessons/9/practical9.ipynb 
    
    
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 10
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 10
 
-   lessons/10/overview.ipynb
-   lessons/10/practical10.ipynb    
+..    lessons/10/overview.ipynb
+..    lessons/10/practical10.ipynb    
 
 
 
