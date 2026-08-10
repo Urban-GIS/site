@@ -6,7 +6,37 @@
 Urban GIS and Visual Tools
 ====================================
 
-This is an introductory full semster course in Urban Studies Master Program at University of Helsinki (in cooperation with Aalto University). For Autumn 2026, the course is being transformed into an Open access MOOC. This page will be updated later.  
+Urban GIS and Visual Tools is a 5-credit introductory course in the Urban
+Studies and Planning Master's Programme at the University of Helsinki, offered
+in cooperation with Aalto University. The course introduces the principles and
+practices of geographic information systems (GIS) through urban questions,
+data, and visual communication.
+
+We begin with a two-week QGIS bootcamp: a fast, hands-on introduction to the
+essential tools and concepts needed for the course. The following lessons move
+from guided exercises towards applied urban GIS work, including data handling,
+spatial analysis, visualisation, and critical interpretation of results.
+
+The course runs from 2 September to 9 December 2026 on Wednesdays from
+09:15 to 11:45. Sessions are held mainly in the University Main Building,
+room F3005. There is no session on 21 October; the session on 2 December is
+held at the Language Centre, room S115.
+
+This open course site is under development. The overall structure and the
+bootcamp are in place, while individual topics, exercises, guest contributors,
+and schedules may still be adjusted before or during the course. The latest
+course materials and updates will be published here.
+
+By the end of the course, students will be able to:
+
+* work confidently with spatial data in QGIS;
+* select and apply appropriate GIS methods to urban questions;
+* create clear, purposeful maps and other spatial visualisations; and
+* interpret, communicate, and critically reflect on spatial analysis results.
+
+The materials on this site are openly available. Course registration,
+assessment, submissions, and implementation-specific communication are
+handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
@@ -15,9 +45,8 @@ This is an introductory full semster course in Urban Studies Master Program at U
    course-info/general-info.ipynb
    course-info/course-env.ipynb
    course-info/grading.ipynb
-   course-info/learning-goal.rst
+   course-info/learning-goals.ipynb
    course-info/ai-tools.ipynb
-   course-info/resources.ipynb
    course-info/license.ipynb
 
 .. toctree::
