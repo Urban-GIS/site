@@ -12,6 +12,12 @@ in cooperation with Aalto University. The course introduces the principles and
 practices of geographic information systems (GIS) through urban questions,
 data, and visual communication.
 
+
+.. note::
+
+   This open-access course was created by `Kamyar Hasanzadeh <https://www.kamyarhz.com/>`_, University Lecturer in Geoinformatics and Docent in Urban Informatics at the University of Helsinki. Its development was supported by the `Master’s Programme in Urban Studies and Planning (USP) <https://www.helsinki.fi/en/degree-programmes/urban-studies-and-planning-masters-programme>`_.
+
+
 We begin with a two-week QGIS bootcamp: a fast, hands-on introduction to the
 essential tools and concepts needed for the course. The following lessons move
 from guided exercises towards applied urban GIS work, including data handling,
@@ -40,10 +46,10 @@ handled through the University of Helsinki's course systems.
 
    course-info/general-info.ipynb
    course-info/course-env.ipynb
-..    course-info/grading.ipynb
-..    course-info/learning-goals.ipynb
-..    course-info/ai-tools.ipynb
-..    course-info/license.ipynb
+   course-info/grading.ipynb
+   course-info/learning-goals.ipynb
+   course-info/ai-tools.ipynb
+   course-info/license.ipynb
 
 .. .. toctree::
 ..    :maxdepth: 2
