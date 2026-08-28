@@ -45,6 +45,7 @@ handled through the University of Helsinki's course systems.
    :caption: Course information
 
    course-info/general-info.ipynb
+   course-info/schedule.ipynb
    course-info/course-env.ipynb
    course-info/grading.ipynb
    course-info/learning-goals.ipynb
