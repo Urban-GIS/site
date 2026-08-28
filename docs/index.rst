@@ -45,6 +45,7 @@ handled through the University of Helsinki's course systems.
    :caption: Course information
 
    course-info/general-info.ipynb
+   course-info/schedule.ipynb
    course-info/course-env.ipynb
    course-info/grading.ipynb
    course-info/learning-goals.ipynb
@@ -55,8 +56,9 @@ handled through the University of Helsinki's course systems.
 ..    :maxdepth: 2
 ..    :caption: GIS Bootcamp
 
-..    lessons/bootcamp/overview.ipynb
+..    lessons/bootcamp/overview-week1.ipynb
 ..    lessons/bootcamp/Part1/GISBC-1.ipynb
+..    lessons/bootcamp/overview-week2.ipynb
 ..    lessons/bootcamp/Part2/GISBC-2.ipynb
 
 
