@@ -14,7 +14,7 @@ release = '2026'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['nbsphinx']
+extensions = ['nbsphinx', 'myst_parser']
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
@@ -56,3 +56,7 @@ nb_execution_mode = "force"
 nb_execution_timeout = 120  # needed, e.g., when matplotlib updates its font cache
 nb_execution_show_tb = True  # show errors
 nbsphinx_allow_errors = True
+
+myst_enable_extensions = [
+    "colon_fence",  # optional, lets you use ::: instead of ``` for directives
+]
