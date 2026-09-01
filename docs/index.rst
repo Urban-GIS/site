@@ -6,7 +6,7 @@
 Urban GIS and Visual Tools
 ====================================
 
-Urban GIS and Visual Tools is a 5-credit introductory course in the Urban
+`Urban GIS and Visual Tools (USP-303) <https://studies.helsinki.fi/courses/course-unit/otm-dd8857e3-61df-4b67-8d0c-45c15302d9c5>`_ is a 5-credit introductory course in the Urban
 Studies and Planning Master's Programme at the University of Helsinki, offered
 in cooperation with Aalto University. The course introduces the principles and
 practices of geographic information systems (GIS) through urban questions,
