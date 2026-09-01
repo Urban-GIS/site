@@ -7,4 +7,5 @@ matplotlib
 geopandas
 pandas
 ipywidgets
+myst-parser
 
