@@ -58,8 +58,8 @@ handled through the University of Helsinki's course systems.
 
    lessons/bootcamp/overview-week1.ipynb
    lessons/bootcamp/Part1/GISBC-1.ipynb
-..    lessons/bootcamp/overview-week2.ipynb
-..    lessons/bootcamp/Part2/GISBC-2.ipynb
+   lessons/bootcamp/overview-week2.ipynb
+   lessons/bootcamp/Part2/GISBC-2.ipynb
 
 
 .. .. toctree::
