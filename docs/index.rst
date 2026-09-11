@@ -62,12 +62,12 @@ handled through the University of Helsinki's course systems.
    lessons/bootcamp/Part2/GISBC-2.ipynb
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 1
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 1
 
-..    lessons/1/overview.ipynb
-..    lessons/1/practical1.ipynb
+   lessons/1/overview.ipynb
+   lessons/1/practical1.ipynb
 
 
 .. .. toctree::
