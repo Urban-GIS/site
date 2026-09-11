@@ -64,7 +64,7 @@ handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lesson 1
+   :caption: Spatial Thinking with GIS
 
    lessons/1/overview.ipynb
    lessons/1/practical1.ipynb
