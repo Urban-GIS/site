@@ -70,12 +70,12 @@ handled through the University of Helsinki's course systems.
    lessons/1/practical1.ipynb
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 2
+.. toctree::
+   :maxdepth: 2
+   :caption: Map Design & Urban Green Space Analysis
 
-..    lessons/2/overview.ipynb
-..    lessons/2/practical2.ipynb
+   lessons/2/overview.ipynb
+   lessons/2/practical2.ipynb
 
 
 .. .. toctree::
