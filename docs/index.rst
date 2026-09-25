@@ -80,7 +80,7 @@ handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lesson 3
+   :caption: Coloring Density: How Dense Is Helsinki, Really?
 
    lessons/3/overview.ipynb
    lessons/3/practical3.ipynb
