@@ -78,12 +78,12 @@ handled through the University of Helsinki's course systems.
    lessons/2/practical2.ipynb
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 3
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 3
 
-..    lessons/3/overview.ipynb
-..    lessons/3/practical3.ipynb
+   lessons/3/overview.ipynb
+   lessons/3/practical3.ipynb
 
 
 .. .. toctree::
