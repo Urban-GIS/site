@@ -48,6 +48,7 @@ handled through the University of Helsinki's course systems.
    course-info/schedule.ipynb
    course-info/course-env.ipynb
    course-info/grading.ipynb
+   course-info/rubric.ipynb
    course-info/learning-goals.ipynb
    course-info/ai-tools.ipynb
    course-info/license.ipynb
