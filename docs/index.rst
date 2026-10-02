@@ -89,7 +89,7 @@ handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lesson 4
+   :caption: The City and its People
 
    lessons/4/overview.ipynb
    lessons/4/practical4.ipynb
