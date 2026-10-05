@@ -87,12 +87,12 @@ handled through the University of Helsinki's course systems.
    lessons/3/Practical3.ipynb
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 4
+.. toctree::
+   :maxdepth: 2
+   :caption: The City and its People
 
-..    lessons/4/overview.ipynb
-..    lessons/4/practical4.ipynb
+   lessons/4/overview.ipynb
+   lessons/4/practical4.ipynb
 
 
 .. .. toctree::
