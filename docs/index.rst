@@ -103,12 +103,12 @@ handled through the University of Helsinki's course systems.
    lessons/5/practical5.ipynb
    
    
-.. toctree::
-   :maxdepth: 2
-   :caption: Lesson 6
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Lesson 6
 
-   lessons/6/overview.ipynb
-   lessons/6/practical6.ipynb   
+..    lessons/6/overview.ipynb
+..    lessons/6/practical6.ipynb   
 
 
 .. .. toctree::
