@@ -95,12 +95,12 @@ handled through the University of Helsinki's course systems.
    lessons/4/practical4.ipynb
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 5
+.. toctree::
+   :maxdepth: 2
+   :caption: GIS Aand Urban Planning
 
-..    lessons/5/overview.ipynb
-..    lessons/5/practical5.ipynb
+   lessons/5/overview.ipynb
+   lessons/5/practical5.ipynb
    
    
 .. .. toctree::
