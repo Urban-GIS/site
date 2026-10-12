@@ -97,7 +97,7 @@ handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lesson 5
+   :caption: GIS Aand Urban Planning
 
    lessons/5/overview.ipynb
    lessons/5/practical5.ipynb
