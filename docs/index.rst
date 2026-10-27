@@ -97,18 +97,18 @@ handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
-   :caption: GIS Aand Urban Planning
+   :caption: GIS and Urban Planning
 
    lessons/5/overview.ipynb
    lessons/5/practical5.ipynb
    
    
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 6
+.. toctree::
+   :maxdepth: 2
+   :caption: Participatory mapping data & analysis
 
-..    lessons/6/overview.ipynb
-..    lessons/6/practical6.ipynb   
+   lessons/6/overview.ipynb
+   lessons/6/practical6.ipynb   
 
 
 .. .. toctree::
