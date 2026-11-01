@@ -111,6 +111,14 @@ handled through the University of Helsinki's course systems.
    lessons/6/practical6.ipynb   
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Urban Accessibility
+
+   lessons/7/overview.ipynb
+   lessons/7/practical7.ipynb 
+
+
 .. .. toctree::
 ..    :maxdepth: 2
 ..    :caption: Lesson 8
