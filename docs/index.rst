@@ -119,12 +119,13 @@ handled through the University of Helsinki's course systems.
    lessons/7/practical7.ipynb 
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 8
+.. toctree::
+   :maxdepth: 2
+   :caption: Lesson 8
 
-..    lessons/8/overview.ipynb
-..    lessons/8/practical8.ipynb  
+   lessons/8/overview.ipynb
+   lessons/8/lecture8.ipynb
+   lessons/8/practical8.ipynb  
 
 
 .. .. toctree::
