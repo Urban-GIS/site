@@ -121,7 +121,7 @@ handled through the University of Helsinki's course systems.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Lesson 8
+   :caption: GIS automation
 
    lessons/8/overview.ipynb
    lessons/8/lecture8.ipynb
