@@ -123,7 +123,6 @@ handled through the University of Helsinki's course systems.
    :maxdepth: 2
    :caption: GIS automation
 
-..    lessons/8/overview.ipynb
    lessons/8/lecture8.ipynb
    lessons/8/practical8.ipynb  
 
