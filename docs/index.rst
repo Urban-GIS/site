@@ -140,7 +140,14 @@ handled through the University of Helsinki's course systems.
 ..    :caption: Lesson 10
 
 ..    lessons/10/overview.ipynb
-..    lessons/10/practical10.ipynb    
+..    lessons/10/practical10.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Final project
+
+..    final-project/final-project.ipynb
 
 
 
