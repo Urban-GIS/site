@@ -127,12 +127,12 @@ handled through the University of Helsinki's course systems.
    lessons/8/practical8.ipynb  
 
 
-.. .. toctree::
-..    :maxdepth: 2
-..    :caption: Lesson 9
+.. toctree::
+   :maxdepth: 2
+   :caption: Urban green
 
-..    lessons/9/overview.ipynb
-..    lessons/9/practical9.ipynb 
+   lessons/9/overview.ipynb
+   lessons/9/practical9.ipynb 
    
    
 .. .. toctree::
@@ -140,7 +140,14 @@ handled through the University of Helsinki's course systems.
 ..    :caption: Lesson 10
 
 ..    lessons/10/overview.ipynb
-..    lessons/10/practical10.ipynb    
+..    lessons/10/practical10.ipynb
+
+
+.. .. toctree::
+..    :maxdepth: 2
+..    :caption: Final project
+
+..    final-project/final-project.ipynb
 
 
 
