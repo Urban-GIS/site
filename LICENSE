@@ -1,21 +1,21 @@
-MIT License
+Copyright (c) 2026 Kamyar Hasanzadeh, Department of Geosciences and Geography,
+University of Helsinki, and the Master's Programme in Urban Studies and
+Planning (USP). All rights reserved.
 
-Copyright (c) 2023 Carto-gis
+The teaching materials in this repository (the course "Urban GIS and Visual
+Tools", https://urbangis.readthedocs.io/) may be used and adapted, for
+example in teaching or self-study, provided that the source is acknowledged.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+When you use or adapt the material, credit the source, for example:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+    Hasanzadeh, K. Urban GIS and Visual Tools. University of Helsinki.
+    https://urbangis.readthedocs.io/
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+and indicate if you have made changes. Do not imply that the University of
+Helsinki, the Master's Programme in Urban Studies and Planning, or the course
+staff endorses your use of the material.
+
+Data, basemaps, imagery, and other material from third parties are not
+covered by this notice. Their own licences and terms of use apply.
+
+The material is provided "as is", without warranty of any kind.
