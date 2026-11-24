@@ -26,7 +26,7 @@ make html
 
 ## Terms of use
 
-© 2026 Kamyar Hasanzadeh, University of Helsinki. All rights reserved. The teaching materials may be used and adapted, provided that the source is acknowledged. See [LICENSE](LICENSE) and the [licence and terms of use](https://urbangis.readthedocs.io/en/latest/course-info/license.html) for details.
+© 2026 Kamyar Hasanzadeh, University of Helsinki. All rights reserved. The teaching materials may be used and adapted for non-commercial purposes, provided that the source is acknowledged. See [LICENSE](LICENSE) and the [licence and terms of use](https://urbangis.readthedocs.io/en/latest/course-info/license.html) for details.
 
 ## Contact
 
